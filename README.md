@@ -111,4 +111,4 @@ PRs and suggestions are welcome. Let's build smarter recommendation systems toge
 
 ## 📜 License
 
-MIT © [Your Name]
+MIT © Solo.Han
